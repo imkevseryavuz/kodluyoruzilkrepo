@@ -1,6 +1,8 @@
 # Kodluyoruz Ilk Repo
-Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
+Bu repo [Patika.dev](https://www.patika.dev/tr) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
+---
 ![resim](https://user-images.githubusercontent.com/83474023/188323206-6a13a081-9d1c-4822-8bcf-e2dbcb7faf66.png)
+---
 ## Installation
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
 ```bash
